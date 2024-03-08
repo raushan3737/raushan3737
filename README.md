@@ -26,17 +26,18 @@
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="or1equals1" height="30" width="100" />  
 </p>
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raushan3737&show_icons=true&locale=en&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raushan3737&layout=donut-vertical&langs_count=20&theme=dracula) |
-
-
-| GitHub Streak |
-|--------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raushan3737&theme=dracula) |
-
 [Raushan Kumar Gupta](https://github.com/raushan3737)
 
+
+
+<div align="center">
+<a href="https://github.com/raushan3737">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raushan3737&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raushan3737&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raushan3737&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raushan3737&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raushan3737&theme=2077" height="180em" />
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
